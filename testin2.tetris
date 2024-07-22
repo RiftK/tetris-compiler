@@ -1,0 +1,20 @@
+
+Section1
+
+cell_size = 50
+cols = 10
+rows = 20
+delay = 750
+maxfps = 30
+
+a = 3
+
+Section2
+
+{ Func1 a = a + 1}
+{ Func2 return = [ call Func1 with a = 2 ]}
+
+
+Section3
+
+[ play with cell_size cols rows]
