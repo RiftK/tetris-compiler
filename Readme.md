@@ -8,7 +8,7 @@ It consists of a scanner and a parser which translates instructions to a python 
 - Initial height and width of the game window is **16x8**
 - **Customizations**
     - **Screen size:** Can change screen size along with the cell size
-    - **Speed-Up/Slow-Down:** Change the spped of the game
+    - **Speed-Up/Slow-Down:** Change the speed of the game
     - **Increase difficulty:** By increasing input delay, the game gets more difficult
 
 
